@@ -1,15 +1,6 @@
-## Hi there 👋
+🎓 Étudiant en 1ère année à Holberton School, intéressé par le développement logiciel et la résolution de problèmes.
 
-<!--
-**DaRKkem/DaRKkem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 J’apprends actuellement les bases solides en C, Python et le développement web.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nobody
-- 💬 Ask me about nothing
-- 📫 How to reach me: none
-- 😄 Pronouns: none
-- ⚡ Fun fact: none
+📍 France | 📩 damross446@gmail.com
+ | 🔗 linkedin.com/in/damien-rossi
