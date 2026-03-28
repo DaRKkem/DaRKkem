@@ -4,11 +4,11 @@
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaRKkem&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaRKkem&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaRKkem&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaRKkem&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaRKkem&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaRKkem&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaRKkem&theme=tokyonight&utcOffset=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaRKkem&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaRKkem&theme=radical&utcOffset=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
