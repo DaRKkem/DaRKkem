@@ -2,15 +2,16 @@
 
 # 👋 Hi, I'm Damien !
 
-🎓 Student at **Holberton School** | 📍 France, Auvergne-Rhône-Alpes 
-
+🎓 Student at **Holberton School** | 📍 France, Auvergne-Rhône-Alpes
 📩 damross446@gmail.com | 🔗 [linkedin.com/in/damien-rossi](https://linkedin.com/in/damien-rossi)
+
 ---
 
 ## 🧠 About Me
 
- Passionate about web development and always looking to learn new things.
- Currently building full-stack projects at Holberton School. 🚀
+Passionate about web development and always looking to learn new things.
+Currently building full-stack projects at Holberton School. 🚀
+
 ---
 
 ## 📊 GitHub Stats
@@ -27,7 +28,7 @@
 
 ## 🛠️ Technologies & Tools
 
- Here are the technologies I work with on a daily basis. 💻
+Here are the technologies I work with on a daily basis. 💻
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +40,7 @@
 
 ## 📚 Currently Learning
 
- Always improving, always growing. Here's what I'm diving into right now ! 🌱
+Always improving, always growing. Here's what I'm diving into right now ! 🌱
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +50,7 @@
 
 ## 📬 Contact
 
- Feel free to reach out, I'm always open to new opportunities ! 😊
+Feel free to reach out, I'm always open to new opportunities ! 😊
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damross446@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damien-rossi)
