@@ -2,7 +2,7 @@
 
 📩 damross446@gmail.com | 🔗 linkedin.com/in/damien-rossi
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaRKkem&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaRKkem&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaRKkem&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaRKkem&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
