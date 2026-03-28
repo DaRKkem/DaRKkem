@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Damien !
 
-🎓 Student at **Holberton School** | 📍 France, Auvergne-Rhône-Alpes
+🎓 Student at **Holberton School** | 📍 France, Auvergne-Rhône-Alpes 
+
 📩 damross446@gmail.com | 🔗 [linkedin.com/in/damien-rossi](https://linkedin.com/in/damien-rossi)
 
 ---
