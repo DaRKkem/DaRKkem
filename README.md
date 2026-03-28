@@ -5,14 +5,14 @@
 🎓 Student at **Holberton School** | 📍 France, Auvergne-Rhône-Alpes 
 
 📩 damross446@gmail.com | 🔗 [linkedin.com/in/damien-rossi](https://linkedin.com/in/damien-rossi)
-
+<br><br>
 ---
 
 ## 🧠 About Me
 
  Passionate about web development and always looking to learn new things.
  Currently building full-stack projects at Holberton School. 🚀
-
+<br><br>
 ---
 
 ## 📊 GitHub Stats
